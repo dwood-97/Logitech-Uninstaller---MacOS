@@ -21,7 +21,7 @@ This script is intended for users who:
 - Cannot uninstall Logitech G HUB normally
 - Experience black screens or UI freezes when stopping G HUB
 - Have partially deleted or corrupted G HUB installs
-- Tried other Reddit uninstall scripts without success
+- Tried other uninstall scripts without success
 
 ---
 
@@ -133,7 +133,7 @@ Each run generates a log file similar to:
 /tmp/ghub_uninstall_YYYYMMDD_HHMMSS.log
 ```
 
-Attach this log when asking for help or posting on Reddit.
+Attach this log when asking for help or opening issues.
 
 ---
 
@@ -193,7 +193,7 @@ PRs welcome for:
 
 ## TL;DR
 
-If Logitech G HUB won't uninstall and other Reddit scripts failed — **this one is defensive, portable, logged, and safe**.
+If Logitech G HUB won't uninstall and other scripts failed — **this one is defensive, portable, logged, and safe**.
 
 Enjoy your Logitech-free system! 🤘
 
