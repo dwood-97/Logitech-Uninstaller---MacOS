@@ -8,7 +8,7 @@ If you're here, you've probably run into one or more of the following:
 - Screen goes black or UI freezes after killing Logitech processes
 - G HUB updater/helper keeps relaunching itself
 - Reinstalling G HUB hangs or fails
-- Existing Reddit uninstall scripts do **not** work on your system
+- Existing uninstall scripts do **not** work on your system
 
 This script exists because **Logitech G HUB installs deep system-level services**, and force-killing them (`pkill -f`) can destabilize macOS (HID, input, WindowServer).
 
