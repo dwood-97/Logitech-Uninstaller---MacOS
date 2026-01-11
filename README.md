@@ -57,7 +57,7 @@ This script is intended for users who:
 ## Quick Start
 
 ```bash
-git clone https://github.com/USERNAME/ghub-uninstall.git
+git clone https://github.com/dwood-97/Logitech-Uninstaller---MacOS
 cd ghub-uninstall
 chmod +x uninstaller.sh
 ./uninstaller.sh --dry-run
@@ -72,7 +72,7 @@ Review the output carefully before proceeding.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/ghub-uninstall.git
+git clone https://github.com/dwood-97/Logitech-Uninstaller---MacOS
 cd ghub-uninstall
 chmod +x uninstaller.sh
 ```
