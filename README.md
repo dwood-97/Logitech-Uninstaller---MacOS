@@ -58,7 +58,7 @@ This script is intended for users who:
 
 ```bash
 git clone https://github.com/dwood-97/Logitech-Uninstaller---MacOS
-cd ghub-uninstall
+cd Logitech-Uninstaller---MacOS
 chmod +x uninstaller.sh
 ./uninstaller.sh --dry-run
 ```
@@ -73,7 +73,7 @@ Review the output carefully before proceeding.
 
 ```bash
 git clone https://github.com/dwood-97/Logitech-Uninstaller---MacOS
-cd ghub-uninstall
+cd Logitech-Uninstaller---MacOS
 chmod +x uninstaller.sh
 ```
 
